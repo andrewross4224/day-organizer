@@ -45,3 +45,7 @@ textarea {
 .present {
   background-color: rgb(160, 160, 160);
 }
+
+h2 {
+  font-size: 20px;
+}
