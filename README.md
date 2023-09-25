@@ -15,7 +15,7 @@ Once on the page you can see your schedule for the day and make alterations. Be 
 
 ## Website Image
 
-![Alt text](/assets/pictures/day-organizer.png)
+![Alt text](./files/pictures/day-organizer.png)
 
 ## Languages Used
 
